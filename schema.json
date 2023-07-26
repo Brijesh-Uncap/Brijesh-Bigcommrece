@@ -3836,55 +3836,5 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Card Widget",
-    "enable": "cardwidget",
-    "settings": [
-      {
-        "type": "paragraph",
-        "content": "BannersMessaging"
-      },
-      {
-        "type": "heading",
-        "content": "ProductPageBanner"
-      },
-      {
-        "type": "select",
-        "label": "BannerStyleColor",
-        "id": "cardwidget-bg-color",
-        "force_reload": true,
-        "options": [
-          {
-            "value": "blue",
-            "label": "Blue"
-          },
-          {
-            "value": "black",
-            "label": "Black"
-          },
-          {
-            "value": "white",
-            "label": "White"
-          },
-          {
-            "value": "white-no-border",
-            "label": "White-no-border"
-          },
-          {
-            "value": "gray",
-            "label": "gray"
-          },
-          {
-            "value": "monochrome",
-            "label": "monochrome"
-          },
-          {
-            "value": "grayscale",
-            "label": "grayscale"
-          }
-        ]
-      }
-    ]
-  } 
+  }
 ]
